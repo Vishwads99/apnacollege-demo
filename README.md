@@ -1,4 +1,4 @@
 # apnacollege-demo
 learning git and github
 <br>
-Author - Vishwa Deshpande
+Author - Vishwa Deshpande (apna college)
